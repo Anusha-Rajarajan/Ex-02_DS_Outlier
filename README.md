@@ -61,3 +61,7 @@ df2_new
 ![output](./Q3.png)
 ![output](./Q4.png)
 ![output](./Q5.png)
+
+## RESULT
+The Outliers are detected and removed from the Dataset.
+
